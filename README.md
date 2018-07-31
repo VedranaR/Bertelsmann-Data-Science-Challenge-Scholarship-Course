@@ -1,0 +1,1 @@
+This project contains all the SQL challenges I solved during my participation in the Bertelsmann Data Science Challenge Scholarship Course.
